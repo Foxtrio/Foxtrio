@@ -11,7 +11,7 @@ I'm a game developer making cool physics-based games.
 </h3> 
 
 <p align="center">
-I do it for fun, but not professionally 😅
+Hope you'll like them😅
   
 </p>
 
