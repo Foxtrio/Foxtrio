@@ -21,7 +21,7 @@ Hope you'll like them😅
 <a href="https://tiktok.com/@foxtriogames"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/ddfe9a8713241994fafec959376209bc3cfcff0e/images/svg/tiktok.svg" alt="foxtriogames | TikTok" width="40px"/></a>
 <a href="https://www.youtube.com/channel/UCoMl3NcU_xt_zk_zC80uLYw"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/ddfe9a8713241994fafec959376209bc3cfcff0e/images/svg/youtube.svg" alt="foxtriogames | YouTube" width="40px"/></a>
 <a href="https://instagram.com/foxtriogames"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/ddfe9a8713241994fafec959376209bc3cfcff0e/images/svg/instagram.svg" alt="foxtriogames | Instagram" width="40px"/></a>
-<a href="https://www.threads.net/@foxtriogames"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/ddfe9a8713241994fafec959376209bc3cfcff0e/images/svg/threads.svg" alt="foxtriogames | Threads" width="40px"/></a>
+<a href="https://www.facebook.com/foxtriogames"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/ddfe9a8713241994fafec959376209bc3cfcff0e/images/svg/facebook.svg" alt="foxtriogames | Facebook" width="40px"/></a>
 </p>
 
 ## 👀 My Current Projects
